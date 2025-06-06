@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student>
+        <first_name>Viacheslav</first_name>
+        <second_name>Ivanov</second_name>
+        <skills>
+            <skill>Java</skill>
+            <skill>Kotlin</skill>
+            <skill>DevSecOps</skill>
+            <skill>English language</skill>
+            <skill>Teamwork</skill>
+        </skills>
+    </student>
+    <student>
+        <first_name>Peter</first_name>
+        <second_name>Sergeev</second_name>
+        <skills>
+            <skill>PHP</skill>
+            <skill>Backend</skill>
+            <skill>Teamwork</skill>
+        </skills>
+    </student>
+    <student>
+        <first_name>Maria</first_name>
+        <second_name>Gavrilovich</second_name>
+        <skills>
+            <skill>Project manager</skill>
+            <skill>Speaking</skill>
+            <skill>Teamwork</skill>
+        </skills>
+    </student>
+</students>
